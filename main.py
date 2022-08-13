@@ -1,0 +1,3 @@
+import Trivia
+
+Trivia.QuizUI()
